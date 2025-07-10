@@ -1,3 +1,5 @@
+Dot Com.
+
 ```bash
 # Welcome to seanige terminal v1.0.0
 
